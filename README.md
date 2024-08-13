@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ## Database:
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
 ## Tools and Technologies:
 [![My Skills](https://skillicons.dev/icons?i=azure,git)](https://skillicons.dev)
