@@ -14,7 +14,7 @@
 
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
-<img src="https://github.com/Fercrantz/Fercrantz/raw/main/img/pyspark_logo.png" width="50px">
+<img src="https://github.com/Fercrantz/Fercrantz/raw/main/img/pyspark_logo.png" width="70px">
 
 ## Database:
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
