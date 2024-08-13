@@ -1,11 +1,9 @@
 
 # :vulcan_salute: Hello, my name is Luno Fercrantz! 
 
-<a href="luno.ufmg@gmail.com">
-    <video width="640" height="360" loop autoplay muted>
-        <source src="https://github.com/Fercrantz/Fercrantz/raw/main/img/Welcon.mp4" type="video/mp4">
-    </video>
-</a>
+<p align="center">
+  <video src="https://github.com/Fercrantz/Fercrantz/raw/main/img/Welcon.mp4"">
+</p>
 
   
 ### My skills:
