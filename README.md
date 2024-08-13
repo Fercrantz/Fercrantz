@@ -23,7 +23,7 @@
 ## Tools and Technologies:
 [![My Skills](https://skillicons.dev/icons?i=azure,git)](https://skillicons.dev)
 <img src="https://github.com/Fercrantz/Fercrantz/raw/main/img/power_bi.png" width="50px">
-<img src="https://github.com/Fercrantz/Fercrantz/raw/main/img/databricks.jpg" width="50px">
+<img src="https://github.com/Fercrantz/Fercrantz/raw/main/img/databricks.jpg" width="55px">
 <img src="https://github.com/Fercrantz/Fercrantz/raw/main/img/azure_synapse.png" width="40px">
 
 
