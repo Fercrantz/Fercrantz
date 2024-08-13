@@ -3,8 +3,11 @@
   <img src="https://github.com/Fercrantz/Fercrantz/raw/main/img/luno.gif">
 </p>
 
+## Phone number:
++5511956888390
   
-### My skills:
+## Emails: 
+luno.ufmg@gmail.com
 
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
