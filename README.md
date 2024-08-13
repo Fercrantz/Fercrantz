@@ -13,7 +13,10 @@
 ### My skills:
 
 ## Languages:
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
+<img src="https://github.com/Fercrantz/Fercrantz/raw/main/img/pyspark_logo.png" width="50px">
+
+<img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
 
 ## Database:
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
