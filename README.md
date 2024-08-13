@@ -11,5 +11,15 @@
 </a>
   
 ### My skills:
-[![My Skills](https://skillicons.dev/icons?i=python,azure)](https://skillicons.dev)
+
+## Languages:
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+## Database:
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+## Tools and Technologies:
+[![My Skills](https://skillicons.dev/icons?i=azure,git)](https://skillicons.dev)
+
+
 
