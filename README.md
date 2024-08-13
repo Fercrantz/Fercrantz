@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Fercrantz/Fercrantz/raw/main/img/Welcon.gif" height="200" width="500">
+  <img src="https://github.com/Fercrantz/Fercrantz/raw/main/img/Welcon.gif">
 </p>
 
   
