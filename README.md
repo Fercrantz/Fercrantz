@@ -2,7 +2,7 @@
 # :vulcan_salute: Hello, my name is Luno Fercrantz! 
 
 <a href="luno.ufmg@gmail.com">
-  <img src="https://github.com/Fercrantz/Fercrantz/raw/main/img/Welcon.mp4" />
+  <video src="https://github.com/Fercrantz/Fercrantz/raw/main/img/Welcon.mp4" />
 </a>
 
   
