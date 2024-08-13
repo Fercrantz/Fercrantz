@@ -11,4 +11,5 @@
 </a>
   
 ### My skills:
-[![My Skills](https://skillicons.dev/icons?i=python,SQL)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pyspark)](https://skillicons.dev)
+
