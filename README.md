@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=azure,git)](https://skillicons.dev)
 <img src="https://github.com/Fercrantz/Fercrantz/raw/main/img/power_bi.png" width="50px">
 <img src="https://github.com/Fercrantz/Fercrantz/raw/main/img/databricks.png" width="50px">
-<img src="https://github.com/Fercrantz/Fercrantz/raw/main/img/azure_synapse.png" width="45px">
+<img src="https://github.com/Fercrantz/Fercrantz/raw/main/img/azure_synapse.png" width="40px">
 
 
 
